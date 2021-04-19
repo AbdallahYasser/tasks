@@ -1,5 +1,5 @@
 {"tasks":[
-  {"title":"breakfast","subsitle":"at 8 am","state":"true"},
-  {"title":"study","subsitle":"at 9 am","state":"false"},
+  {"title":"breakfast","subtitle":"at 8 am","state":"true"},
+  {"title":"study","subtitle":"at 9 am","state":"false"},
   {"title":"GYM","subtitle":"at 3 pm","state":"true"}
   ]}
